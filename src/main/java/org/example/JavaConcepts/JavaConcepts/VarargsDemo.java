@@ -1,4 +1,4 @@
-package org.example.JavaConcepts;
+package org.example.JavaConcepts.JavaConcepts;
 
 /*
 * Here the concept is like if we have variable no of arguments of similar data type
